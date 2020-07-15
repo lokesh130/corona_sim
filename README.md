@@ -39,3 +39,8 @@
   * plot the known and predicted data together with the forecast and the error lines.
 ### Conclusions
 Our model tells us that the COVID-19 epidemic will end in Italy between **26th May 2020 and 22nd July 2022**, if the current trend is maintained over time. The current model can not take into account unexpected changes in the system, such as the gradual loosening of lockdown restrictions, or the effects of warmer temperature over the virus spread.
+### References 
+* supervised/unsupervised learning : https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+* linear regresion : https://machinelearningmastery.com/linear-regression-for-machine-learning/
+* Itly covid-19 data : https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv
+
