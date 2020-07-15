@@ -43,4 +43,5 @@ Our model tells us that the COVID-19 epidemic will end in Italy between **26th M
 * supervised/unsupervised learning : https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
 * linear regresion : https://machinelearningmastery.com/linear-regression-for-machine-learning/
 * Itly covid-19 data : https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv
+* TowardsDataScience article : https://towardsdatascience.com/model-the-covid-19-epidemic-in-detail-with-python-98f0d13f3a0e
 
