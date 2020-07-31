@@ -1,4 +1,4 @@
-# Covid-19 simualation
+# Covid-19 prediction
 ### Introduction 
 * Simulating covid-19 pandemic and trying to grab future outcomes, like 
   * When the pandemic would end
